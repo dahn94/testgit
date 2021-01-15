@@ -16,5 +16,8 @@
   "bugs": {
     "url": "https://github.com/dahn94/testgit/issues"
   },
-  "homepage": "https://github.com/dahn94/testgit#readme"
+  "homepage": "https://github.com/dahn94/testgit#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
 }
